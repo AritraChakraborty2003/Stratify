@@ -28,6 +28,7 @@ const Login = () => {
     {
       data.map((val) => {
         if (val.email === email && val.password === password) {
+          localStorage.setItem("admin", "#12356");
           navigate("/dashboard", {
             state: {
               name: val.name,
