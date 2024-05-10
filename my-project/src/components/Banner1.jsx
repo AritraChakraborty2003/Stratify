@@ -2,7 +2,7 @@ const Banner1 = () => {
   return (
     <>
       <div className=" bg-blue1 flex flex-wrap justify-center">
-        <div className="md:h-96 w-[110vmin] border-white flex justify-center mt-16">
+        <div className="md:h-96 w-[110vmin] xl:w-[75vmin] border-white flex justify-center mt-16">
           <div className="imgBox h-72 w-[90vmin] flex justify-center">
             <img
               src="./images/startup.png"
@@ -10,7 +10,7 @@ const Banner1 = () => {
             ></img>
           </div>
         </div>
-        <div className="md:h-96 w-[110vmin] border-white lg:mt-16 flex justify-center lg:flex-start">
+        <div className="md:h-96 w-[110vmin] xl:w-[75vmin]  border-white lg:mt-16 flex justify-center lg:flex-start">
           <div className="imgBox h-72 w-[90vmin] flex flex-start items-center">
             <div className="flex flex-col justify-center">
               <p className="text-8xl text-white font-bold overflow-y-hidden">

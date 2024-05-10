@@ -25,10 +25,10 @@ const Services = () => {
   ];
   return (
     <>
-      <div className="heading flex justify-center mt-5 w-12/12 ">
+      <div className="heading flex justify-center mt-5 w-12/12 p-3">
         <p className="text-7xl font-bold overflow-y-hidden">Features</p>
       </div>
-      <div className="heading flex flex-wrap justify-evenly mt-5 w-12/12 gap-5 lg:gap-0 ">
+      <div className="heading flex flex-wrap justify-evenly mt-5 w-12/12 gap-5 lg:gap-0 p-5 ">
         {data.map((val) => (
           <div
             className="w-[247px] h-[290px] pt-3 bg-white  border-solid border-gray-500 rounded-lg shadow-2xl overflow-hidden transform transition duration-300 
