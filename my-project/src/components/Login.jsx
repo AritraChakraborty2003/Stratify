@@ -79,9 +79,6 @@ const Login = () => {
             <br></br>
             <br></br>
 
-            <a>
-              <Link to="/signup">Or signup directly with google...</Link>
-            </a>
             <br></br>
 
             <br></br>
