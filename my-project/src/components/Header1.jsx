@@ -8,9 +8,6 @@ const Header1 = () => {
   return (
     <>
       <MarqueeHeader1 />
-      <Banner1 />
-      <Services />
-      <Footer1 />
     </>
   );
 };

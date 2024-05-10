@@ -25,7 +25,7 @@ const Services = () => {
   ];
   return (
     <>
-      <div className="heading flex justify-center mt-5 w-12/12 p-3">
+      <div className="bg-white heading flex justify-center mt-5 w-12/12 p-3">
         <p className="text-7xl font-bold overflow-y-hidden">Features</p>
       </div>
       <div className="heading flex flex-wrap justify-evenly mt-5 w-12/12 gap-5 lg:gap-0 p-5 ">
