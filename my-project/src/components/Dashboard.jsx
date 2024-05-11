@@ -207,6 +207,7 @@ const DashBoard = () => {
               </li>
             </ul>
           </div>
+          <p>Pre Footer Logic</p>
           <Footer1 />
         </>
       )) || <Navigate to="/login" />}
