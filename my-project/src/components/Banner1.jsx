@@ -15,7 +15,7 @@ const Banner1 = () => {
           <div className="imgBox h-72 w-[90vmin] flex flex-start items-center">
             <div className="flex flex-col justify-center">
               <p className="text-8xl text-white font-bold overflow-y-hidden">
-                Startify
+                Startify Project
               </p>
               <p className="text-lg text-white font-normal mt-3">
                 (Connecting entrepreneurship with innovators)
